@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Check if board is auto updated and moved to Done column or not!!!!</h1>
+    <h1>Check if board is auto updated and moved to Done column or not... Please confirm</h1>
 	<h2>Upload your data to make to get predictions</h2>
     <img
       alt="Vue logo"
