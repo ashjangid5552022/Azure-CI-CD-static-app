@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Check if manual approval stage is working or not... Please confirm</h1>
+    <h1>Check if 3rd pipeline is running successfully with manual approval... Please confirm</h1>
 	<h2>Upload your data to make to get predictions</h2>
     <img
       alt="Vue logo"
